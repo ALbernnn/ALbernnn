@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ALbernnn
 - 👀 I’m interested in informatika
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on chat bot
+
 
 
 <!---
